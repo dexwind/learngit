@@ -1,3 +1,7 @@
 This is the test file for Github.
 Another text line.
-Create a new branch.Again.
+<<<<<<< HEAD
+Create a new branch.And again.
+=======
+Create a new branch.And again.
+>>>>>>> feature1
