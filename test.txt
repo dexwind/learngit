@@ -1,4 +1,3 @@
 This is the test file for Github.
 Another text line.
-<<<<<<< HEAD
-Create a new branch.And again,and again.
+Create a new branch.And again,not again.
